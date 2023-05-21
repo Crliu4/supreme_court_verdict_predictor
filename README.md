@@ -14,8 +14,8 @@ Maggie Chen, Carolyn Liu, Eujene Yum
 
 ## Content
 * [Notebooks](https://github.com/Crliu4/supreme_court_verdict_predictor/tree/main/notebooks)
-    * [Data Cleaning & Baseline Models](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/notebooks/Data_Cleaning_%26_Baseline.ipynb) - Colab notebook for data collection, preprocessing, & running baseline models
-    * [BERT Model](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/notebooks/BERT_final.ipynb) - Colab notebook for fine-tuning a pre-trained BERT model
+    * [Data Cleaning & Baseline Models](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/notebooks/Data_Cleaning_%26_Baseline.ipynb) - Colab notebook for data collection, preprocessing, & running baseline models (451 lines)
+    * [BERT Model](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/notebooks/BERT_final.ipynb) - Colab notebook for fine-tuning a pre-trained BERT model (217 lines)
 
 * [Reports](https://github.com/Crliu4/supreme_court_verdict_predictor/tree/main/reports)
     * [Proposal](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/reports/Proposal.pdf)
@@ -23,4 +23,14 @@ Maggie Chen, Carolyn Liu, Eujene Yum
     * [Final Report](insert here)
 
 * [Poster](insert here)
+
+* [Google Drive](https://drive.google.com/drive/folders/1ekVi6lI5QrRkn5W8ZJCBbUF_1cwaveay) - contains all notebooks, notes, & reports, including things that we tried but didn't work.
+    * [Final Notebooks](https://drive.google.com/drive/folders/15mPxoUk4r4JvOc47LX3vtJC0FPp1r1sG) - same as notebooks on Github
+    * [Notes](https://drive.google.com/drive/folders/1pMpiMc2AGiLFetsHc0tphfEVPfjrA7Bh)
+    * [Plots](https://drive.google.com/drive/folders/1KZtALbyCQgYH_H1CQGwKUIV-pffF9x5o) - EDA & training plots
+    * [Processed Data](https://drive.google.com/drive/folders/1kGfP14xK4La_vAjVTAlYXeGxcz6hbV1-) - intermediate dataset that includes preprocessed conversation level data for 2010-2019
+    * [Reports](https://drive.google.com/drive/folders/1k7KkoDSlTA8F2h7h1rQbl4AMmvwRZjqc) - Includes project proposal, mid-quarter and final reports
+    * [Things that didn't work](https://drive.google.com/drive/folders/1SW35F_Pt_ZxvQpo-VzXohUakvu-VBQGg) - Notebooks of text processing and modeling that we tried but didn't work well
+        * [BERT](https://drive.google.com/drive/folders/1-d7m8VgNJUEewkBv-d3CBf_83sIwq5pn) - All BERT-related notebooks
+        * [Data Cleaning & Baseline](https://drive.google.com/drive/folders/16PS9ZFRRl0RYM1nxaGZyoyGcpfs3C5-Y) - Data collection, preprocessing, & running baseline models 
 

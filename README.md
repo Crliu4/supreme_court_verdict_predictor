@@ -22,7 +22,7 @@ functions, we find that the BERT model provides us with the highest accuracy of 
     * [Midterm Report](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/reports/Midterm_Checkpoint.pdf)
     * [Final Report](insert here)
 
-* [Poster](insert here)
+* [Poster](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/poster.pdf)
 
 * [Google Drive](https://drive.google.com/drive/folders/1ekVi6lI5QrRkn5W8ZJCBbUF_1cwaveay) - contains all notebooks, notes, & reports, including things that we tried but didn't work.
     * [Final Notebooks](https://drive.google.com/drive/folders/15mPxoUk4r4JvOc47LX3vtJC0FPp1r1sG) - same as notebooks on Github

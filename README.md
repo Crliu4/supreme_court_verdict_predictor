@@ -31,6 +31,6 @@ functions, we find that the BERT model provides us with the highest accuracy of 
     * [Processed Data](https://drive.google.com/drive/folders/1kGfP14xK4La_vAjVTAlYXeGxcz6hbV1-) - intermediate dataset that includes preprocessed conversation level data for 2010-2019
     * [Reports](https://drive.google.com/drive/folders/1k7KkoDSlTA8F2h7h1rQbl4AMmvwRZjqc) - Includes project proposal, mid-quarter and final reports
     * [Things that didn't work](https://drive.google.com/drive/folders/1SW35F_Pt_ZxvQpo-VzXohUakvu-VBQGg) - Notebooks of text processing and modeling that we tried but didn't work well
-        * [BERT](https://drive.google.com/drive/folders/1-d7m8VgNJUEewkBv-d3CBf_83sIwq5pn) - All BERT-related notebooks
-        * [Data Cleaning & Baseline](https://drive.google.com/drive/folders/16PS9ZFRRl0RYM1nxaGZyoyGcpfs3C5-Y) - Data collection, preprocessing, & running baseline models 
+        * [BERT](https://drive.google.com/drive/folders/1-d7m8VgNJUEewkBv-d3CBf_83sIwq5pn) - All BERT-related notebooks (1278 lines total)
+        * [Data Cleaning & Baseline](https://drive.google.com/drive/folders/16PS9ZFRRl0RYM1nxaGZyoyGcpfs3C5-Y) - Data collection, preprocessing, & running baseline models (742 lines total)
 

@@ -10,7 +10,7 @@ network, multiple tree-based models, and BERT. Through many iterations of model 
 functions, we find that the BERT model provides us with the highest accuracy of 69%.
 
 ### Contributors
-Maggie Chen, Carolyn Liu, Eujene Yum
+[Maggie Chen](https://github.com/maggiechen615), [Carolyn Liu](https://crliu4.github.io), [Eujene Yum](https://github.com/eujeneyumm)
 
 ## Content
 * [Notebooks](https://github.com/Crliu4/supreme_court_verdict_predictor/tree/main/notebooks)

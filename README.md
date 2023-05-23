@@ -20,7 +20,7 @@ functions, we find that the BERT model provides us with the highest accuracy of 
 * [Reports](https://github.com/Crliu4/supreme_court_verdict_predictor/tree/main/reports)
     * [Proposal](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/reports/Proposal.pdf)
     * [Midterm Report](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/reports/Midterm_Checkpoint.pdf)
-    * [Final Report](insert here)
+    * [Final Report](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/reports/Final_Report.pdf)
 
 * [Poster](https://github.com/Crliu4/supreme_court_verdict_predictor/blob/main/poster.pdf)
 

@@ -1,6 +1,6 @@
-# CAPP 30255 - Advanced Machine Learning for Public Policy Final Project
+# CAPP 30255 - Advanced Machine Learning for Public Policy
 
-## Supreme Court Verdict Prediction
+## Final Project: Supreme Court Verdict Prediction
 As the highest court in the land, the Supreme Court hears cases that impact the country’s social,
 political and economic future. The outcomes of these decisions trickle down and impact our day
 to day lives as well. In this paper, we aim to predict the outcome of Supreme Court hearings
